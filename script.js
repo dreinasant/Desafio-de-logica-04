@@ -1,30 +1,31 @@
-/*function Olá(){
+function Olá(){
     console.log("Olá Mundo")
 }
-Olá()*/
+Olá()
 
-/*let nomeLindo = "Andrêina"
+let nomeLindo = "Andrêina"
 function nomeExposto(nome){
     console.log(`Esse é meu nome ${nome}`)
 }
-nomeExposto(nomeLindo)*/
+nomeExposto(nomeLindo)
 
-/*function nomeExposto(nome){
+
+function nomeExposto(nome){
     console.log(`Esse é meu nome ${nome}`)
 }
-nomeExposto("Andrêina")*/
+nomeExposto("Andrêina")
 
 
-/*function informações(nome, idade, estiloMusical){
+function informações(nome, idade, estiloMusical){
     console.log(`Meu nome é ${nome}, minha idade é ${idade} e um dos meus estilos musicais é ${estiloMusical}`)
 }
-informações("Andrêina", "21 anos", "rap")*/
+informações("Andrêina", "21 anos", "rap")
 
 
-/*function maisInformações(umFilme, umaMusica){
+function maisInformações(umFilme, umaMusica){
     console.log(`Um filme ${umFilme} e uma musica ${umaMusica}`)
 }
-maisInformações("365 Days", "POP Smoke - DIOR")*/
+maisInformações("365 Days", "POP Smoke - DIOR")
 
 
 function triploDaSoma(w, z){
